@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Jay
-- 🌱 I’m currently learning network automation using python. 
-     - python manipulation of CSV, JSON, Text files
-     - paramiko, Netmiko, Napalm, Ansible
-     - interfacing with Linux, Cisco, Juniper devices via python scripting
+- I make things sometimes.
    
  
 - 📫 contact.jeremyjthomas@gmail.com
