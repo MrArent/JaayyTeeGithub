@@ -40,6 +40,6 @@ Side interests include network automation, AI tinkering, and writing Minecraft w
 | Project | Description |
 |---------|-------------|
 | [amulet-plugins](https://github.com/MrArent/amulet-plugins) | Operation plugins for the Amulet Minecraft world editor |
-| [Network-Automation](https://github.com/MrArent/Udemy-NetworkAutomation) | Network automation scripts — Paramiko, Netmiko, NAPALM, asyncio |
-| [LeetCode-Practice](https://github.com/MrArent/LeetCode-Practice) | Ongoing problem solving practice |
+| [udemy-network-automation](https://github.com/MrArent/udemy-network-automation) | Network automation scripts — Paramiko, Netmiko, NAPALM, asyncio |
+| [leetcode-practice](https://github.com/MrArent/leetcode-practice) | Ongoing problem solving practice |
 | [python-practice](https://github.com/MrArent/python-practice) | Sandbox for Python experiments |
